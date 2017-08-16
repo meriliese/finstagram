@@ -1,0 +1,28 @@
+header {
+    background-color: #000;
+    color: #E8FDFF;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+main {
+    background-color: white;
+    padding: 16px;
+}
+
+.post {
+    margin-bottom: 48px;
+}
+
+.post .user-info img {
+}
+
+/*.post .user-info .square {*/
+/*    height: 80px;*/
+/*    width: 80px;*/
+/*    overflow: hidden;*/
+/*    background: 50% 50% no-repeat;*/
+}
+
